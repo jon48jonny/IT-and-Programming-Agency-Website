@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>HTML CSS Review</title>
+  
+
+
+  <style>
+ 
+
+  </style>
+</head>
+<body>
+  <!--
+    this is a comment for html
+  -->
+  
+
+    <script>
+      // this code creates a popup, this is a comment for javascript.
+      // alert('hello');
+
+      /*
+        multi
+        line=
+        comment
+      */
+     </script>
+
+</body>
+</html>
+
+
