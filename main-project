@@ -4,43 +4,41 @@
   <title>JDX Workflow Agency</title>
   <style>
     body {
-      margin: 0; /* Remove default margin */
-      height: 200vh; /* Set the body height to 100% of the viewport height */
-      background: linear-gradient(to bottom,grey 40%,
-      black);
+      margin: 0;
+      height: 200vh;
+      background: linear-gradient(to bottom, rgb(102, 102, 102) 40%, black);
       color: black;
-      
     }
 
     h1 {
-      
       font-family: Georgia, 'Times New Roman', Times, serif;
       color: bisque;
       display: flex;
       font-size: 52px;
       margin-top: 20px;
       margin-left: 20px;
-      
     }
 
     h2 {
-      font-family: 'Times New Roman', Times, serif;
+      font-family: Georgia, 'Times New Roman', Times, serif;
       margin: auto;
       text-align: center;
       color: bisque;
       margin-top: 120px;
       font-size: 35px;
-      
     }
 
-    .P1{
+    .P1 {
       text-align: center;
       color: white;
       margin-top: 50px;
       font-size: 23px;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      max-width: 80%;
+      margin-left: 110px;
     }
 
-    .P2{
+    .P2 {
       text-align: left;
       color: white;
       margin-top: 105px;
@@ -48,37 +46,60 @@
       max-width: 50%;
       font-size: 21px;
       max-width: 25%;
-      
+      font-family: Georgia, 'Times New Roman', Times, serif;
     }
 
-  .button1{
-    align-content: left;
-    margin-left: 30px;
-    max-width: 30%;
-    font-size: 25px;
-    margin-top: 20px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: blueviolet;
-  }
+    .button1 {
+      margin-top: 1px;
+      align-content: left;
+      margin-left: 30px;
+      max-width: 30%;
+      font-size: 25px;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      background-color: blueviolet;
+    }
 
+    .img-doubleNote {
+      align-content: right;
+      width: 50px; /* Set the width of the image */
+    }
+
+    h3 {
+      text-align: right;
+      color: bisque;
+      margin-right: 300px;
+      font-size: 28px;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      margin-top: 200px;
+      
+
+    }
   </style>
 </head>
 <body>
   <h1>JDX-WorkFlow-Agency</h1>
-  <h2>What we do at JDX-WorkFlow-Agency:</h2>
+  <h2>What we do:</h2>
   <p class="P1">
-    "An adept team of professionals dedicated to seamlessly orchestrating business projects, just like the harmonious flow of your favorite song – or close to it!"
+    "An adept team of professionals dedicated to seamlessly orchestrating business projects, just like the flow of your favorite song – or close to it!"
   </p>
   
   <p class="P2">
-    Our adept team specializes in seamless programming and IT solutions. Ready to make your project sing? 
+    Our team specializes in seamless programming and IT solutions. Ready to make your project sing? 
+  </p>
+
+  <H3>Our philosophy:</H3>
+
+  <p class="P3">
+
+  
   </p>
   
   <button class="button1">
     Connect with us now!
   </button>
 
+  
+
 
 </body>
 </html>
-
