@@ -38,19 +38,9 @@
       margin-left: 110px;
     }
 
-    .P2 {
-      text-align: left;
-      color: white;
-      margin-top: 105px;
-      margin-left: 30px;
-      max-width: 50%;
-      font-size: 21px;
-      max-width: 25%;
-      font-family: Georgia, 'Times New Roman', Times, serif;
-    }
-
+ 
     .button1 {
-      margin-top: 1px;
+      margin-top: px;
       align-content: left;
       margin-left: 30px;
       max-width: 30%;
@@ -64,14 +54,40 @@
       width: 50px; /* Set the width of the image */
     }
 
+    .P2 {
+      text-align: left;
+      color: white;
+      margin-top: 100px;
+      margin-left: 30px;
+      max-width: 50%;
+      font-size: 21px;
+      max-width: 25%;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+
+
     h3 {
       text-align: right;
       color: bisque;
       margin-right: 300px;
       font-size: 28px;
       font-family: Georgia, 'Times New Roman', Times, serif;
-      margin-top: 200px;
+      margin-top: -90px;
       
+
+    }
+
+    .P3{
+
+      color: white;
+      font-size: 21px;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      min-height: 20px;
+      float: right;
+      margin-right: 20px;
+      clear: right;
+
+      margin-left: 500px
 
     }
   </style>
@@ -91,6 +107,7 @@
 
   <p class="P3">
 
+    At JDX Workflow Agency, we believe that each project is unique and deserves a tailored approach. We specialize in providing seamless programming and innovative IT solutions, ensuring that every venture is a success story. Our dedicated team is committed to excellence, embracing challenges as opportunities for growth. We don't just write code; we create efficient and high-quality digital solutions that bring your vision to life.
   
   </p>
   
